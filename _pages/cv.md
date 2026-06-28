@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Philosophy of Science, Johannes Kepler University, Linz, (December) 2026 (expected)
+* M.A. in Philosophy, University of Bristol, 2021
+* B.A. (Hons) in Philosophy, University of Stirling, 2016
 
 Work experience
 ======
@@ -56,6 +56,14 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
+  Philosophy of Science (Summer 2025) 
+
+  Philosophy of Social Science (Summer 2026) 
+
+  Critical Thinking (Summer 2024, Winter 2024, Summer 2026) 
+
+  Fundamentals of Philosophy of Medicine (Winter Semester 2024, Winter Semester 2025, Winter Semester 2026)
+  
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
