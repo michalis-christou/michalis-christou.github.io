@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Philosophy of Science, Johannes Kepler University, Linz, (December) 2026 (expected)
+* Ph.D in Philosophy of Science
+Johannes Kepler University, Linz, December 2026 (expected)
+First Supervisor: prof. Julian Reiss, Secondary Supervisor: prof. Jonas Arenhart
 * M.A. in Philosophy, University of Bristol, 2021
+Thesis title:
+Supervisor: Dr. Karim Thebault
 * B.A. (Hons) in Philosophy, University of Stirling, 2016
+Dissertation:
+Supervisor: prof. Mike Wheeler
 
 Work experience
 ======
