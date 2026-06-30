@@ -32,20 +32,25 @@ Teaching Experience
 ======
 * Philosophy of Science
   * Johannes Kepler University
-  * Themes: Science and Pseudoscience, Feminist Philosophy of Science and Standpoint, Epistemology,
+  * Topics: Science and Pseudoscience, Feminist Philosophy of Science and Standpoint, Epistemology,
             Explanation, Induction, Values in Science
   * Summer Semester: 2025 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Critical Thinking (and Foundations of Philosophy)
+  * Johannes Kepler University
+  * Topics: Arguments, Deduction, Induction, Authority and Experts, Testimony, Fallacies, Media and Fake News
+  * Summer Semester: 2024, 2026; Winter Semester: 2024
 
-* Fundamentals of Philosophy of Medicine, 
+* Fundamentals of Philosophy of Medicine
   * Faculty of Medicine, Johannes Kepler University
-  * Themes: Theories of Health and Disease, Causality in Medicine, Evidence-Based Medicine, Value Judgments,
+  * Topics: Theories of Health and Disease, Causality in Medicine, Evidence-Based Medicine, Value Judgments,
             Objectivity in Medicine
   * Winter Semester: 2024, 2025, 2026
+
+* Philosphy of Social Science
+  * Johannes Kepler University
+  * Topics: How do the Social Sciences Explain, Values in Science, Experimentation and Social Policy,
+            Epistemic Injustice, Social Policy and Well Being
   
 Skills
 ======
