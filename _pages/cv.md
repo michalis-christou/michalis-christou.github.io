@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Philosophy of Science
-   Johannes Kepler University, Linz, December 2026 (expected)
+* **PhD** in Philosophy of Science
+  Johannes Kepler University, Linz, December 2026 (expected)
+
+  **Thesis title:** The (Logical) Role of Inconsistencies in Science
 
    **Primary Supervisor:** prof. Julian Reiss, **Secondary Supervisor:** prof. Jonas Arenhart
-* M.A. in Philosophy, University of Bristol, 2021
+* **M.A.** in Philosophy, University of Bristol, 2021
 
    **Thesis title:** Objecthood, Identity and (Non-)Individuality: The Case for Quantum Elementary Particles
 
-   **Supervisor:** Dr. Karim Thebault
-* B.A. (Hons) in Philosophy, University of Stirling, 2016
+   **Supervisor:** prof. Karim Thebault
+* **B.A. (Hons)** in Philosophy, University of Stirling, 2016
 
    **Dissertation title:** : Solving the Paradox of Being: Being’s relation to Nothingness, its manifestation through art, and its dialetheic nature
 
