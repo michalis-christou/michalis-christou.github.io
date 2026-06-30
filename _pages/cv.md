@@ -28,22 +28,24 @@ Education
 
    **Supervisor:** prof. Mike Wheeler
 
-Work experience
+Teaching Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Philosophy of Science
+  * Johannes Kepler University
+  * Themes: Science and Pseudoscience, Feminist Philosophy of Science and Standpoint, Epistemology,
+            Explanation, Induction, Values in Science
+  * Summer Semester: 2025 
 
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fundamentals of Philosophy of Medicine, 
+  * Faculty of Medicine, Johannes Kepler University
+  * Themes: Theories of Health and Disease, Causality in Medicine, Evidence-Based Medicine, Value Judgments,
+            Objectivity in Medicine
+  * Winter Semester: 2024, 2025, 2026
   
 Skills
 ======
