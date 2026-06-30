@@ -13,19 +13,13 @@ Education
 ======
 * **PhD** in Philosophy of Science
   Johannes Kepler University, Linz, December 2026 (expected)
-
   **Thesis title:** The (Logical) Role of Inconsistencies in Science
-
    **Primary Supervisor:** prof. Julian Reiss, **Secondary Supervisor:** prof. Jonas Arenhart
 * **M.A.** in Philosophy, University of Bristol, 2021
-
    **Thesis title:** Objecthood, Identity and (Non-)Individuality: The Case for Quantum Elementary Particles
-
    **Supervisor:** prof. Karim Thebault
 * **B.A. (Hons)** in Philosophy, University of Stirling, 2016
-
    **Dissertation title:** : Solving the Paradox of Being: Being’s relation to Nothingness, its manifestation through art, and its dialetheic nature
-
    **Supervisor:** prof. Mike Wheeler
 
 Teaching Experience
@@ -52,41 +46,29 @@ Teaching Experience
   * Topics: How do the Social Sciences Explain, Values in Science, Experimentation and Social Policy,
             Epistemic Injustice, Social Policy and Well Being
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Conference Talks
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
+* Scientific Observation: Data, Phenomena, and Inconsistency Toleration [POSTER} 08/2025 
+European Philosophy of Science Association (EPSA), Biennial Conference
+University of Groningen, Netherlands
++ Contradiction and Inconsistency: Different… But The Same 02/2025 
+The Inaugural Symposium on Logic in the Arab World
+Kuwait University, Kuwait
+Contradictions in Science: Logic, Reasoning, and a Way out 08/2024 
+XXV World Congress of Philosophy: Philosophy across Boundaries
+Sapienza University, Rome, Italy
+Reasoning on an Inconsistent Basis: The Case of Scientific Theories 09/2024 
+East European Network for Philosophy of Science (EENPS), Biennial Conference
+Interdisciplinary Centre for Ethics
+Jagiellonian University, Krakow, Poland
+How Inconsistent Scientific Theories were (Logically) Dealt with in the Past, and Today 08/2023 
+Principia International Symposium
+Epistemology and Logic Research Group
+Federal University of Santa Catarina, Florianopolis, Brazil
+Non-Transitive Identity in the Quantum Realm: Many Worlds, One Identity Relation 07/2023 
+Lisbon International Conference in Philosophy of Science, University of Lisbon, Portugal
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-  Philosophy of Science (Summer 2025) 
 
-  Philosophy of Social Science (Summer 2026) 
-
-  Critical Thinking (Summer 2024, Winter 2024, Summer 2026) 
-
-  Fundamentals of Philosophy of Medicine (Winter Semester 2024, Winter Semester 2025, Winter Semester 2026)
-  
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
