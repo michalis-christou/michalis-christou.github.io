@@ -60,7 +60,7 @@ Conferences/Talks/Workshops
 * **Contradiction and Inconsistency: Different… But The Same** 
     * The Inaugural Symposium on Logic in the Arab World
      * Kuwait University, Kuwait
-      * February 2025
+        * February 2025
 * **Contradictions in Science: Logic, Reasoning, and a Way out**
     * XXV World Congress of Philosophy: Philosophy across Boundaries
       * Sapienza University, Rome, Italy
@@ -70,7 +70,7 @@ Conferences/Talks/Workshops
       * Jagiellonian University, Krakow, Poland
         * September 2024
 * **Inconsistent Reasoning Without an Inconsistent World**
-    Workshop: Dealing With Inconsistencies in the Sciences and Philosophy
+    * Workshop: Dealing With Inconsistencies in the Sciences and Philosophy
       * Federal University of Santa Catarina, Florianopolis, Brazil
         * August 2023
 * **How Inconsistent Scientific Theories were (Logically) Dealt with in the Past, and Today**
@@ -79,8 +79,8 @@ Conferences/Talks/Workshops
         * August 2023
 * **Non-Transitive Identity in the Quantum Realm: Many Worlds, One Identity Relation** 
     * Lisbon International Conference in Philosophy of Science
-     * University of Lisbon, Portugal
-       * July 2023
+      * University of Lisbon, Portugal
+        * July 2023
 
 
 Other Academic Activities
