@@ -51,34 +51,34 @@ Teaching Experience
 Conferences/Talks/Workshops
 ======
 * Scientific Observation: Data, Phenomena, and Inconsistency Toleration [POSTER}
-  European Philosophy of Science Association (EPSA), Biennial Conference
-  University of Groningen, Netherlands
-  August 2025
+    European Philosophy of Science Association (EPSA), Biennial Conference
+      University of Groningen, Netherlands
+        August 2025
 * Inconsistencies Between Theory and Observation: Falsificationism, Data, and Phenomena
-  Institute of Philosophy and Scientific Method Reading Group (JKU)
-  June 2025
-+ Contradiction and Inconsistency: Different… But The Same 
-  The Inaugural Symposium on Logic in the Arab World
-  Kuwait University, Kuwait
-  February 2025
+    Institute of Philosophy and Scientific Method Reading Group (JKU)
+      June 2025
+* Contradiction and Inconsistency: Different… But The Same 
+    The Inaugural Symposium on Logic in the Arab World
+     Kuwait University, Kuwait
+      February 2025
 * Contradictions in Science: Logic, Reasoning, and a Way out
-  XXV World Congress of Philosophy: Philosophy across Boundaries
-  Sapienza University, Rome, Italy
-  August 2024
+    XXV World Congress of Philosophy: Philosophy across Boundaries
+      Sapienza University, Rome, Italy
+        August 2024
 * Reasoning on an Inconsistent Basis: The Case of Scientific Theories
-  East European Network for Philosophy of Science (EENPS), Biennial Conference
-  Jagiellonian University, Krakow, Poland
-  September 2024
+    East European Network for Philosophy of Science (EENPS), Biennial Conference
+      Jagiellonian University, Krakow, Poland
+        September 2024
 * Inconsistent Reasoning Without an Inconsistent World
-  Workshop: Dealing With Inconsistencies in the Sciences and Philosophy
-  Federal University of Santa Catarina, Florianopolis, Brazil
-  August 2023
+    Workshop: Dealing With Inconsistencies in the Sciences and Philosophy
+      Federal University of Santa Catarina, Florianopolis, Brazil
+        August 2023
 * How Inconsistent Scientific Theories were (Logically) Dealt with in the Past, and Today 
-  Principia International Symposium, Epistemology and Logic Research Group
-  Federal University of Santa Catarina, Florianopolis, Brazil
-  August 2023
+    Principia International Symposium, Epistemology and Logic Research Group
+      Federal University of Santa Catarina, Florianopolis, Brazil
+        August 2023
 * Non-Transitive Identity in the Quantum Realm: Many Worlds, One Identity Relation 
-  Lisbon International Conference in Philosophy of Science
-  University of Lisbon, Portugal
-  July 2023
+    Lisbon International Conference in Philosophy of Science
+     University of Lisbon, Portugal
+       July 2023
 
